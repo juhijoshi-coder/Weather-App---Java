@@ -8,14 +8,22 @@ HTTPURLConnection: A built-in tool in Java for getting data from other websites,
 
 # Class Overviews:
 1. AppLauncher
-What it does: Start up the Weather App when you open it.
+   
+What it does:
+Start up the Weather App when you open it.
 
-2. WeatherAppGui
-What it does: Makes the Weather App look good on your screen, showing the weather for your chosen place.
-Summary: This part manages how the app looks, including where you type the location and where the weather details show up. It listens to what you type and updates the weather when you ask.
+3. WeatherAppGui
+   
+What it does:
+Makes the Weather App look good on your screen, showing the weather for your chosen place.
+Summary: 
+This part manages how the app looks, including where you type the location and where the weather details show up. It listens to what you type and updates the weather when you ask.
 
-3. WeatherApp
-What it does: Gets the weather data from an outside source, turns it into something readable, and ensures the app shows the right info.
-Summary: This part is like the brain of the Weather App. It knows how to ask for weather details and where to show them. It ensures everything works smoothly between what you see and the info it gets from outside.
+4. WeatherApp
+   
+What it does:
+Gets the weather data from an outside source, turns it into something readable, and ensures the app shows the right info.
+Summary:
+This part is like the brain of the Weather App. It knows how to ask for weather details and where to show them. It ensures everything works smoothly between what you see and the info it gets from outside.
 
 Feel free to ask if you want more details or have questions!
